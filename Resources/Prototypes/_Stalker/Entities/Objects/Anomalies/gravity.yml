@@ -50,6 +50,7 @@
       enabled: true
       volume: -5
       range: 4
+      pitch: 3
       sound:
         path: /Audio/_Stalker_EN/Effects/Anomalies/gravi_rumble1.ogg # EN
     - type: ZoneArtifactSpawner
