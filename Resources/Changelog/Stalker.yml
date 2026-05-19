@@ -3023,5 +3023,12 @@
   id: 333
   time: '2026-05-19T11:28:45.722768+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/933
+- author: TheOverwatchVoice
+  changes:
+  - message: Fixes freedom base vendor
+    type: Fix
+  id: 334
+  time: '2026-05-19T20:58:34.136692+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/935
 Name: Stalker
 Order: -1
