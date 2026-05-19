@@ -3030,5 +3030,12 @@
   id: 334
   time: '2026-05-19T20:58:34.136692+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/935
+- author: SnekiChaos
+  changes:
+  - message: Some specific Refrigerators can no longer be pulled.
+    type: Tweak
+  id: 335
+  time: '2026-05-19T21:15:00.511623+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/926
 Name: Stalker
 Order: -1
