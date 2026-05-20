@@ -3044,5 +3044,12 @@
   id: 336
   time: '2026-05-19T22:12:09.510798+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/922
+- author: TheCookieChicken
+  changes:
+  - message: Added new duty poncho
+    type: Add
+  id: 337
+  time: '2026-05-20T04:59:46.511412+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/934
 Name: Stalker
 Order: -1
