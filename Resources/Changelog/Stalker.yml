@@ -3103,5 +3103,12 @@
   id: 344
   time: '2026-05-27T18:06:54.877866+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/945
+- author: TheCookieChicken
+  changes:
+  - message: 5 new backpacks
+    type: Add
+  id: 345
+  time: '2026-05-27T18:11:50.293233+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/950
 Name: Stalker
 Order: -1
