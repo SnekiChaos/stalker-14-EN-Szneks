@@ -3096,5 +3096,12 @@
   id: 343
   time: '2026-05-27T18:03:52.689177+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/932
+- author: Nox38
+  changes:
+  - message: All SEVAs now get 5 artifact slots, instead of just Eco SEVAs.
+    type: Tweak
+  id: 344
+  time: '2026-05-27T18:06:54.877866+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/945
 Name: Stalker
 Order: -1
