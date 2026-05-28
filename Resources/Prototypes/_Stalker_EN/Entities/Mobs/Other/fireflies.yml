@@ -56,10 +56,5 @@
       energy: 2
       color: "#ea003b"
       castShadows: true
-    - type: AmbientSound
-      volume: -7
-      range: 4
-      sound:
-        path: /Audio/_Stalker/Animals/firefly.ogg
     - type: STWeight
       self: 0.25
