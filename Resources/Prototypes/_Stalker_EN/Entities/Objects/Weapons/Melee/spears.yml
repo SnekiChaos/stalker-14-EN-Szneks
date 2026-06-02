@@ -12,15 +12,13 @@
     damage:
       types:
         Piercing: 18 #Not Final, Will be adjusted for the zone
+        Mutant : 15
   - type: DamageOtherOnHit
     damage:
       types:
         Piercing: 30 # Not Final, Will be adjusted for the zone
-  - type: FactionBonusDamage
-    group: Mutated
-    damage:
-      types:
-        Piercing: 15 # Damage bonus against mutants.
+        Mutant : 25
+  - type: SlowOnDamage
   - type: Destructible
     thresholds:
     - trigger:
