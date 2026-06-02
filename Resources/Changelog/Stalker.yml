@@ -3037,5 +3037,103 @@
   id: 335
   time: '2026-05-19T21:15:00.511623+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/926
+- author: cris5311
+  changes:
+  - message: Benelli M4 is closer to its true glory
+    type: Tweak
+  id: 336
+  time: '2026-05-19T22:12:09.510798+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/922
+- author: TheCookieChicken
+  changes:
+  - message: Added new duty poncho
+    type: Add
+  id: 337
+  time: '2026-05-20T04:59:46.511412+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/934
+- author: TheCookieChicken
+  changes:
+  - message: Tweaked the "GoodOintment", removed the stray pixel in the png
+    type: Tweak
+  - message: <img width="32" height="32" alt="ointment" src="https://github.com/user-attachments/assets/57e37d99-a022-4fcd-b1bf-b964c4612126"
+      />
+    type: Add
+  id: 338
+  time: '2026-05-21T22:11:50.690399+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/942
+- author: Nox38
+  changes:
+  - message: Added a new waist bag designed around fitting a medkit container!
+    type: Add
+  id: 339
+  time: '2026-05-25T09:37:45.980711+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/915
+- author: Wintoli
+  changes:
+  - message: Armored bounty hunter hat, yeehaw
+    type: Add
+  id: 340
+  time: '2026-05-25T09:40:12.174016+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/901
+- author: TheCookieChicken
+  changes:
+  - message: Added the Clear Sky backpack, variant of the army backpack
+    type: Add
+  id: 341
+  time: '2026-05-25T20:16:33.018769+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/946
+- author: Wintoli
+  changes:
+  - message: Gun Cases can go on your back and some of them have been expanded slightly.
+    type: Tweak
+  id: 342
+  time: '2026-05-25T20:22:26.791482+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/944
+- author: Nox38
+  changes:
+  - message: Resprited Freedom ponchos!
+    type: Tweak
+  id: 343
+  time: '2026-05-27T18:03:52.689177+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/932
+- author: Nox38
+  changes:
+  - message: All SEVAs now get 5 artifact slots, instead of just Eco SEVAs.
+    type: Tweak
+  id: 344
+  time: '2026-05-27T18:06:54.877866+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/945
+- author: TheCookieChicken
+  changes:
+  - message: 5 new backpacks
+    type: Add
+  id: 345
+  time: '2026-05-27T18:11:50.293233+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/950
+- author: KittyCat432
+  changes:
+  - message: Duty beret now works like the rest of the berets.
+    type: Fix
+  - message: UN beret now works like the rest of the berets.
+    type: Fix
+  id: 346
+  time: '2026-05-30T19:55:23.204852+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/953
+- author: Cassandra
+  changes:
+  - message: White GP-5 variant
+    type: Add
+  id: 347
+  time: '2026-05-30T19:57:48.772373+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/921
+- author: nathan736
+  changes:
+  - message: adjusted neutral poncho hood
+    type: Tweak
+  - message: neutral faction chainmail hood,
+    type: Add
+  id: 348
+  time: '2026-06-01T19:28:58.453053+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/951
 Name: Stalker
 Order: -1

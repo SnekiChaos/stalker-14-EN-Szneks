@@ -187,6 +187,19 @@
   - type: Sprite
     sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/ppsh_band.rsi
 
+- type: entity
+  parent: STBaseWeaponSMGPPSh41
+  id: STWeaponSMGPPSh41Alt
+  name: PPSh-41
+  description: The iconic Soviet PPSh-41 submachine gun chambered in 7.62x25mm Tokarev, now with an alternative wood finish.
+  components:
+  - type: Clothing
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/ppsh_alt.rsi
+  - type: Item
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/ppsh_alt.rsi
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Weapons/Guns/_Skins/ppsh_alt.rsi
+
 # SNIPERS
 # svds
 - type: entity
