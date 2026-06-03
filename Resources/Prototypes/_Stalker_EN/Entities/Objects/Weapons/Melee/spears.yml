@@ -12,16 +12,12 @@
     damage:
       types:
         Piercing: 18 #Not Final, Will be adjusted for the zone
-        Mutant : 15
+        Mutant : 20
   - type: DamageOtherOnHit
     damage:
       types:
         Piercing: 30 # Not Final, Will be adjusted for the zone
-        Mutant : 25
-  - type: SlowOnDamage
-    speedModifierThresholds:
-    30: 0.9
-    60: 0.5
+        Mutant : 30
   - type: Destructible
     thresholds:
     - trigger:
