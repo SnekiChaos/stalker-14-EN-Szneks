@@ -3142,5 +3142,12 @@
   id: 349
   time: '2026-06-02T22:09:18.849417+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/959
+- author: TheOverwatchVoice
+  changes:
+  - message: Changes Monolith Sphere-12 Sprite
+    type: Add
+  id: 350
+  time: '2026-06-04T22:20:07.332125+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/960
 Name: Stalker
 Order: -1
