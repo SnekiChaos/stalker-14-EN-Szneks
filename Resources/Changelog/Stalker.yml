@@ -3163,5 +3163,12 @@
   id: 352
   time: '2026-06-06T09:26:23.630929+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/963
+- author: Llfiend
+  changes:
+  - message: Armor Tiers
+    type: Add
+  id: 353
+  time: '2026-06-06T20:27:31.986469+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/967
 Name: Stalker
 Order: -1
