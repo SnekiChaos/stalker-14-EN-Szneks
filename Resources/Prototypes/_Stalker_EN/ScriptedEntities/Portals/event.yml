@@ -136,7 +136,7 @@
 
 - type: entity
   parent: MapTeleportBaseUncollide
-  id: Anywhere-Anywhere5
+  id: Anywhere-Anywhere5Uncollide
   name: Anywhere-Anywhere5
   suffix: Teleport, Portal, Event, Uncollide
   components:
