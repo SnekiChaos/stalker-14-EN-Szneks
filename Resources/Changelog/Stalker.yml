@@ -3177,5 +3177,14 @@
   id: 354
   time: '2026-06-06T20:31:08.006305+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/955
+- author: simpleleaf0
+  changes:
+  - message: Winterized Groza sprites and entries
+    type: Add
+  - message: Winterized Abakan sprites and entries
+    type: Add
+  id: 355
+  time: '2026-06-08T01:07:55.800205+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/937
 Name: Stalker
 Order: -1
