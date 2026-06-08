@@ -3186,5 +3186,13 @@
   id: 355
   time: '2026-06-08T01:07:55.800205+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/937
+- author: teecoding
+  changes:
+  - message: Mannequins now stay frozen until you get close or hit them, then spring
+      to life and chase.
+    type: Add
+  id: 356
+  time: '2026-06-08T21:01:08.309354+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/969
 Name: Stalker
 Order: -1
