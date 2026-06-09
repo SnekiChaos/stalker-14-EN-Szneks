@@ -65,8 +65,8 @@
   - type: Sprite
     layers:
     - state: blue
-  - type: LinkByString
-    linkString: Yantar-Rostok
+  - type: MiracleMachineTeleports
+    teleport: Yantar-Rostok
 
 - type: entity
   id: MiracleMachineTeleporterSpawnerYantarDeadCity
