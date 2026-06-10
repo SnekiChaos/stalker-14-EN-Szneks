@@ -3217,5 +3217,14 @@
   id: 359
   time: '2026-06-09T22:44:45.279270+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/964
+- author: dallaszzz
+  changes:
+  - message: Wild territory
+    type: Add
+  - message: Moved yantar teleports around
+    type: Tweak
+  id: 360
+  time: '2026-06-10T03:12:54.761086+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/971
 Name: Stalker
 Order: -1
