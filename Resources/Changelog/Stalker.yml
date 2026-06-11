@@ -3261,5 +3261,12 @@
   id: 365
   time: '2026-06-11T11:40:01.931063+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/975
+- author: dallaszzz
+  changes:
+  - message: Fixes yantar teleports
+    type: Fix
+  id: 366
+  time: '2026-06-11T16:20:13.200148+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/976
 Name: Stalker
 Order: -1
