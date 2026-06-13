@@ -1,8 +1,8 @@
 ent-STClothingCapeCoatReinforced = reinforced cloak
     .desc = Cloak with sewn-in chain mail and reinforced with armide cloth, which gives a total of about Class 3 protection. By itself, it is heavy and will not fit an armor.
     .suffix = ST, T3
-ent-ClothingOuterCoatLoyalistLight = Hunting Cloak
-    .desc = a cloak that is made specifically for hunting in extreme conditions, for example, in the conditions of the Chernobyl Exclusion Zone, painted in green camouflage.
+ent-ClothingOuterCoatLoyalistLight = Hunting Raincoat
+    .desc = A civilian raincoat made specifically for hunting in extreme conditions. With a bit of re-tailoring by Zone-based "craftsmen", these have been popular with stalkers. Painted in green camouflage.
     .suffix = ST, T3
 ent-ClothingHeadHelmetLoyalistCoatlight = Hunting Hood
     .desc = will protect the head... from the rain... I guess?

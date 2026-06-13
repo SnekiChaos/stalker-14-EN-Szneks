@@ -25,7 +25,8 @@
 
 # Охотничий Плащ
 - type: entity
-  parent: STClothingCapeBase
+  #parent: STClothingCapeBase
+  parent: ClothingOuterCoatLoyalist # Stalker EN - make the hunting coat a kevlar coat sidegrade
   id: ClothingOuterCoatLoyalistLight
   name: охотничий плащ
   description: плащ, что сделан специально для охоты в экстремальных условиях, например в условиях ЧЗО, окрашен в зелёный камуфляж.
