@@ -3275,5 +3275,16 @@
   id: 367
   time: '2026-06-13T01:19:04.659642+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/977
+- author: dallaszzz
+  changes:
+  - message: renames all maps to use english names and standardizes them
+    type: Tweak
+  - message: some yantar map changes
+    type: Tweak
+  - message: fixes local teleporters not working as intended
+    type: Fix
+  id: 368
+  time: '2026-06-15T01:52:25.843408+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/980
 Name: Stalker
 Order: -1
