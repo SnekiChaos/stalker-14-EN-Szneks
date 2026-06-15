@@ -3286,5 +3286,16 @@
   id: 368
   time: '2026-06-15T01:52:25.843408+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/980
+- author: dallaszzz
+  changes:
+  - message: Ports tons of mapping entitys from ru
+    type: Add
+  - message: Ports new cbrn suit sprites from ru
+    type: Add
+  - message: Ports new lobby screens from ru
+    type: Add
+  id: 369
+  time: '2026-06-15T02:09:13.123993+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/981
 Name: Stalker
 Order: -1
