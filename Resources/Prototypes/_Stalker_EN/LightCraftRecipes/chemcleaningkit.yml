@@ -174,7 +174,7 @@
 - type: lightCraftingRecipe
   id: ChemCleaningKitAbakanWinter
   results:
-  - STWeaponRifleAbakanWinter
+  - STWeaponRifleStalkerAbakanWinter
   steps:
     firstIngredient: CraftChemicalCleaningKit
     secondIngredient: STWeaponRifleAbakanWinterMono

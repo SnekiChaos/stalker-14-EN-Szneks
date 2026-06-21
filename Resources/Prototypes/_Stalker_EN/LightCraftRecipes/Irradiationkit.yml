@@ -91,10 +91,10 @@
 - type: lightCraftingRecipe
   id: IrradiationkitAbakanWinterMono
   results:
-  - STWeaponRifleAbakanWinterMono
+  - STWeaponRifleStalkerAbakanWinterMono
   steps:
-    firstIngredient: CraftChemicalCleaningKit
-    secondIngredient: STWeaponRifleAbakanWinter
+    firstIngredient: STIrradiationkit
+    secondIngredient: STWeaponRifleStalkerAbakanWinter
     time: 15
 
 - type: lightCraftingRecipe
@@ -102,6 +102,6 @@
   results:
   - STWeaponRifleOC14WinterMono
   steps:
-    firstIngredient: CraftChemicalCleaningKit
+    firstIngredient: STIrradiationkit
     secondIngredient: STWeaponRifleOC14Winter
     time: 15
