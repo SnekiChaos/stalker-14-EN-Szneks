@@ -3327,5 +3327,14 @@
   id: 373
   time: '2026-06-22T00:58:48.640472+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/990
+- author: TheCookieChicken
+  changes:
+  - message: Winterized Equipment can be Irradiated
+    type: Add
+  - message: Winterized AN-91 and Groza can be cleansed/Irradiated
+    type: Tweak
+  id: 374
+  time: '2026-06-22T16:01:27.913913+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/989
 Name: Stalker
 Order: -1
