@@ -128,7 +128,8 @@
       STSharpenedKnife: 1
       STKnifeShard: 85 # munny sink
       WeaponPistolGSH18: 1
-      #STWeaponSniperSVDMono: 85 # not yet
+      STWeaponSniperMosin: 10
+      STWeaponSniperSVDMono: 85
 
   - name: shop-category-magazines
     priority: 2
@@ -142,7 +143,7 @@
       ClothingOuterArmorSevaMonolithPriest: 15
       ClothingHeadHelmetBerill5MMonolith: 8
       ClothingHeadHelmetBulatMonolith: 10
-      ClothingOuterArmorBerill5MMonolith: 30
+      ClothingOuterArmorBerill5MMonolith: 50
 
   - name: shop-category-grenades
     priority: 4
