@@ -79,7 +79,7 @@
     modifiers:
       flatReductions:
         Blunt: 2
-        Slash: 4
+        Slash: 6
         Piercing: 8
       coefficients:
         Blunt: 0.7
