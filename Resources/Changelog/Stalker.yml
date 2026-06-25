@@ -3378,5 +3378,16 @@
   id: 380
   time: '2026-06-25T14:49:06.935763+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/996
+- author: Aliwenko
+  changes:
+  - message: Shoppa dolla faction vendors
+    type: Add
+  - message: Forester inventory
+    type: Tweak
+  - message: Faction vendors
+    type: Tweak
+  id: 381
+  time: '2026-06-25T18:19:34.162947+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1002
 Name: Stalker
 Order: -1
